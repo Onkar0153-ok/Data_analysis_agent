@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Environment Variables
+.env
+.env.local
+
+# SQLite Databases & Session data
+*.db
+*.sqlite3
+
+# Streamlit config / cache
+.streamlit/secrets.toml
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Exports & temporary output
+exports/
+temp/
+scratch/
